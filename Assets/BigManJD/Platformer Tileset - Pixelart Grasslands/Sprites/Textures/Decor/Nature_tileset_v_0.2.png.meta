@@ -1,0 +1,3195 @@
+fileFormatVersion: 2
+guid: 5117c15d8b683864fbcf23f969c3f4a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4afdd1c2508a048ab61455bfd82d39
+      internalID: -402557574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae55cbe52924a5a4e96a4a16a05031e2
+      internalID: 1523494492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a386cf192e732c64abc8b3eb7415673b
+      internalID: 561825573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240f5b2475085a8448a95a733f521c16
+      internalID: 1294053818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3172700f388cb4f98ce231bc7ab990
+      internalID: -697324373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46586f7f5009d47bdd07c72e26f617
+      internalID: -279175689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b84e7d3cb3d704ea0b9911c8f93e7f
+      internalID: 405290630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41005874b6b21554781bb87026f66726
+      internalID: -796294090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0420501e37e89b84e81f78f394b89a47
+      internalID: -1892232436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1a1ad59aa29bd47a64b1dfbf97f5ea
+      internalID: 612109307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4c70c1cb3cb44ea4972ed4341577e
+      internalID: 2134180851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa02768396f98ba45ba4e6af909d757f
+      internalID: 127164226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e504601221b2b94183e369a930b24ae
+      internalID: 1884397478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1469fe0c0def94eaa1a5984af987b6
+      internalID: -737067649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74f2c94f427445409598480df9fcb19
+      internalID: 1933159645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02315662ae261d469f95e5338518e11
+      internalID: 299763280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0235499812a7d418acf30f2c99a530
+      internalID: -253448963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f3f471bd980d3439830823eaa990db
+      internalID: 2078763209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21015c3971ce71348bd473919b7811f9
+      internalID: -1062718124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed772fbbfff62948a07307528b5e286
+      internalID: -1314163562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f083022a0aad443a9c7494ecd32c73
+      internalID: -1619078819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec118bea71050a498e24ac7f1628440
+      internalID: 2033393027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 352
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb99e55a715ae40b5f56d963427fe7
+      internalID: -2088450160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 352
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d434253681d2447ab7052bd8c4ad3b
+      internalID: -344649739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f2a4079a5b47f4c9b07ca5e630d438
+      internalID: 1639798940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122cf978f8c39274fa7d04636db5eaf6
+      internalID: -694644281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c58442dc5ee4448caf0b0765e389f
+      internalID: 1723957066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebaa11a7abd9ba4caa915eaf69ec8bf
+      internalID: -411583344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8162ac20173b24b82a63acf96af664
+      internalID: -1336291266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c594f829a1fb9d42aac6404079b7a3f
+      internalID: -5623249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee8cbf31bf33b478c966a4033cfc2e
+      internalID: -2000473688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf60461bf9a43440be850140d5c9a56
+      internalID: 718833649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b135c697229043bc701df8d9352f9
+      internalID: -1990859412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c944137cffaf4b97258786c67d789
+      internalID: 1928246172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ddb71ac0d5b94fa076b874cf7f1a9
+      internalID: -470061510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d342d7870c294747b951ed1e3b6293f
+      internalID: 1738887378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b501bb0375860b40bed32b712167b88
+      internalID: -861037762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450e75dde034c0041b6744aee5475da4
+      internalID: 703525641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5593dad5ad9a3a479439e561ac8225a
+      internalID: -10059173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_39
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb88b93602426a4d9a9606ba52caeec
+      internalID: -349128446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389dabc2aa4e5ab41a875ada80bd741f
+      internalID: -580386464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dd48662d75de046bfefe9570bd95c6
+      internalID: -808646740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3453d2c03359d354c953845bcadad505
+      internalID: -874163756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cfeb5a33415c142a15e1c4e675959c
+      internalID: 264624348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe798916e71f59042897ed9faf41993c
+      internalID: -1107779963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb38004e3ce2f3428683f17e4ca57ef
+      internalID: -2014314616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979084eb8e79c6d48851cf47c81f23d7
+      internalID: -968661407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8912705a585eafa4d8717befc2687866
+      internalID: -1209419480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c14ca2617a7f44ae8e36e5a6e192c
+      internalID: 527070340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598e895ed7163b34f98be5735a27256c
+      internalID: -1903938654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f794ec18d2a31c3488764e465f0ab540
+      internalID: 1714329475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec3bcc3b96863647acb6434aaa3aae3
+      internalID: 1831758142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b5d144b7b8d894e93fac36e041efec
+      internalID: -972420791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7af5dd6c1e88243b96408f7c8d2a58
+      internalID: 594468909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74cdebf34d09844fb47065fd8702aaa
+      internalID: 1467829015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6196a9a24e5748866692f75a96379
+      internalID: 1191849070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146859bf09cb10b458b34682df87271f
+      internalID: 41092209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d7ef28e21310447b7dff89d1d8825a
+      internalID: -120435422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0b6862ba07a484ab88463aa396ef4d
+      internalID: -1005640797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3c52e9d2b8214e927ee1e3e2d36d2
+      internalID: 1856922584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf540cf0dd3516f4e8411017deef3a11
+      internalID: -393644070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45fb7b243f26be4986dab0a76f7fc52
+      internalID: -1420815299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1894bf4218f190f44a2f0101e4c4c488
+      internalID: 1366459926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e627abe40d8a054081f55d7d38e690e
+      internalID: -1422345837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_64
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f7be91cf717242955da696236f40c
+      internalID: -1827231359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc61a7f6d0cc14f9b62a06b955df01
+      internalID: -61999090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74441aa95c8cce844b9e0151298c6900
+      internalID: 485467864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d622e95c76dd948a59f6ba3aca754f
+      internalID: -1382817360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3d04d9a6bd9c34bb80f6969d33f659
+      internalID: -1953761656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a166c8995d9f8a940b269c62980c23c2
+      internalID: 1353648870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8833dc3528277204cb5a2b95fc327e5e
+      internalID: -5773943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_71
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67732256b4fee194f9783bec8229f22f
+      internalID: -146092418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d066685772256f34aa41147b8328274f
+      internalID: -908694956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d528b20c116a044ae9b18439a9d804
+      internalID: 599188065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b937a85e698194e849e39913098bf2
+      internalID: 1343173132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3517a119c5e5a5843b3f1ebde5d6fe02
+      internalID: -891570062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_76
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305cc174b43762642bea4aca2e0a1475
+      internalID: -340666092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_77
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53886116de41fae46afee0377fc7d08e
+      internalID: 1416050421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_78
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b6f9d32228428458a4e973a0a3e6c0
+      internalID: 1900795712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3e1af527428f43b48ee93e27ab888
+      internalID: -644826380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03c9479698750044bebeb6132454667
+      internalID: 597404627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe1931a80ec4734f9588bb58899d51e
+      internalID: 987611794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001d105c11a66c54f860c8fc96a760b3
+      internalID: -140020029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22415759ff1d32f41aac0527f2e812ef
+      internalID: -1677593585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9277659444cee14eb0368d07106d0c7
+      internalID: 835859308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6153fa2c00db0c4c85f45a6b8f36797
+      internalID: -394003544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b45b1c2bf89aa549a63915beb2dcd16
+      internalID: 590149359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aca129f0937bc74381f550cd0c0d661
+      internalID: 1110158687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb9181cf77be74199baaf3f5ca2512
+      internalID: -485054251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17f5164be2d75489e109c8eb26c3ed
+      internalID: 1199443904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_90
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3acfd02cbde9e46937b4f53da8d7e6
+      internalID: 1178122467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_91
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9ef8e3f9174914fb590ad49ed1ce9e
+      internalID: -145794809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af1519c2fb67b469cf8e8e6232f3b3
+      internalID: 739024102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1b40b626aa1a745973107f1474b07e
+      internalID: 1699526835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda132723d193a24fa5b9f07c4acf011
+      internalID: 676061231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d9369b12129eb448fcab62fe746f2c
+      internalID: 1352453397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294fb89f34516d2499200354167c3e57
+      internalID: 847622653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_97
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27644f6da3d6cb3448228171bf615e0d
+      internalID: -1478288673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_98
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1acc174459f8e8489996bf6a9f9bb0a
+      internalID: -373652431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc150cd5980c6f478eab1ba9ff66d6a
+      internalID: 1516599133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3af6b5b10e9e83468aadfa6ea736de7
+      internalID: 1462809522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tileset_v_0.2_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d13851c844bbbe49b21f3a558922362
+      internalID: 626150089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Nature_tileset_v_0.2_0: -402557574
+      Nature_tileset_v_0.2_1: 1523494492
+      Nature_tileset_v_0.2_10: 2134180851
+      Nature_tileset_v_0.2_100: 1462809522
+      Nature_tileset_v_0.2_101: 626150089
+      Nature_tileset_v_0.2_11: 127164226
+      Nature_tileset_v_0.2_12: 1884397478
+      Nature_tileset_v_0.2_13: -737067649
+      Nature_tileset_v_0.2_14: 1933159645
+      Nature_tileset_v_0.2_15: 299763280
+      Nature_tileset_v_0.2_16: -253448963
+      Nature_tileset_v_0.2_17: 2078763209
+      Nature_tileset_v_0.2_18: -1062718124
+      Nature_tileset_v_0.2_19: -1314163562
+      Nature_tileset_v_0.2_2: 561825573
+      Nature_tileset_v_0.2_20: -1619078819
+      Nature_tileset_v_0.2_21: 2033393027
+      Nature_tileset_v_0.2_22: -2088450160
+      Nature_tileset_v_0.2_23: -344649739
+      Nature_tileset_v_0.2_24: 1639798940
+      Nature_tileset_v_0.2_25: -694644281
+      Nature_tileset_v_0.2_26: 1723957066
+      Nature_tileset_v_0.2_27: -411583344
+      Nature_tileset_v_0.2_28: -1336291266
+      Nature_tileset_v_0.2_29: -5623249
+      Nature_tileset_v_0.2_3: 1294053818
+      Nature_tileset_v_0.2_30: -2000473688
+      Nature_tileset_v_0.2_31: 718833649
+      Nature_tileset_v_0.2_32: -1990859412
+      Nature_tileset_v_0.2_33: 1928246172
+      Nature_tileset_v_0.2_34: -470061510
+      Nature_tileset_v_0.2_35: 1738887378
+      Nature_tileset_v_0.2_36: -861037762
+      Nature_tileset_v_0.2_37: 703525641
+      Nature_tileset_v_0.2_38: -10059173
+      Nature_tileset_v_0.2_39: -349128446
+      Nature_tileset_v_0.2_4: -697324373
+      Nature_tileset_v_0.2_40: -580386464
+      Nature_tileset_v_0.2_41: -808646740
+      Nature_tileset_v_0.2_42: -874163756
+      Nature_tileset_v_0.2_43: 264624348
+      Nature_tileset_v_0.2_44: -1107779963
+      Nature_tileset_v_0.2_45: -2014314616
+      Nature_tileset_v_0.2_46: -968661407
+      Nature_tileset_v_0.2_47: -1209419480
+      Nature_tileset_v_0.2_48: 527070340
+      Nature_tileset_v_0.2_49: -1903938654
+      Nature_tileset_v_0.2_5: -279175689
+      Nature_tileset_v_0.2_50: 1714329475
+      Nature_tileset_v_0.2_51: 1831758142
+      Nature_tileset_v_0.2_52: -972420791
+      Nature_tileset_v_0.2_53: 594468909
+      Nature_tileset_v_0.2_54: 1467829015
+      Nature_tileset_v_0.2_55: 1191849070
+      Nature_tileset_v_0.2_56: 41092209
+      Nature_tileset_v_0.2_57: -120435422
+      Nature_tileset_v_0.2_58: -1005640797
+      Nature_tileset_v_0.2_59: 1856922584
+      Nature_tileset_v_0.2_6: 405290630
+      Nature_tileset_v_0.2_60: -393644070
+      Nature_tileset_v_0.2_61: -1420815299
+      Nature_tileset_v_0.2_62: 1366459926
+      Nature_tileset_v_0.2_63: -1422345837
+      Nature_tileset_v_0.2_64: -1827231359
+      Nature_tileset_v_0.2_65: -61999090
+      Nature_tileset_v_0.2_66: 485467864
+      Nature_tileset_v_0.2_67: -1382817360
+      Nature_tileset_v_0.2_68: -1953761656
+      Nature_tileset_v_0.2_69: 1353648870
+      Nature_tileset_v_0.2_7: -796294090
+      Nature_tileset_v_0.2_70: -5773943
+      Nature_tileset_v_0.2_71: -146092418
+      Nature_tileset_v_0.2_72: -908694956
+      Nature_tileset_v_0.2_73: 599188065
+      Nature_tileset_v_0.2_74: 1343173132
+      Nature_tileset_v_0.2_75: -891570062
+      Nature_tileset_v_0.2_76: -340666092
+      Nature_tileset_v_0.2_77: 1416050421
+      Nature_tileset_v_0.2_78: 1900795712
+      Nature_tileset_v_0.2_79: -644826380
+      Nature_tileset_v_0.2_8: -1892232436
+      Nature_tileset_v_0.2_80: 597404627
+      Nature_tileset_v_0.2_81: 987611794
+      Nature_tileset_v_0.2_82: -140020029
+      Nature_tileset_v_0.2_83: -1677593585
+      Nature_tileset_v_0.2_84: 835859308
+      Nature_tileset_v_0.2_85: -394003544
+      Nature_tileset_v_0.2_86: 590149359
+      Nature_tileset_v_0.2_87: 1110158687
+      Nature_tileset_v_0.2_88: -485054251
+      Nature_tileset_v_0.2_89: 1199443904
+      Nature_tileset_v_0.2_9: 612109307
+      Nature_tileset_v_0.2_90: 1178122467
+      Nature_tileset_v_0.2_91: -145794809
+      Nature_tileset_v_0.2_92: 739024102
+      Nature_tileset_v_0.2_93: 1699526835
+      Nature_tileset_v_0.2_94: 676061231
+      Nature_tileset_v_0.2_95: 1352453397
+      Nature_tileset_v_0.2_96: 847622653
+      Nature_tileset_v_0.2_97: -1478288673
+      Nature_tileset_v_0.2_98: -373652431
+      Nature_tileset_v_0.2_99: 1516599133
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
